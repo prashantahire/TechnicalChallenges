@@ -1,10 +1,10 @@
-package my.challenge.solution.array;
+package my.challenge.solution;
 /**
  * 
  * @author prashant
  *
  */
-public class AddOneToArray {
+public class Challenge1 {
     /**
      * Given a integer array add one to its concatenated value.
      * [1,2,3,4] -> [1,2,3,5]
