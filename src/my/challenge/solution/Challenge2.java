@@ -1,5 +1,4 @@
 package my.challenge.solution;
-//https://www.hackerrank.com/challenges/crush/problem
 public class Challenge2 {
     
     public static long arrayManipulation(int n, int queries[][]) {
