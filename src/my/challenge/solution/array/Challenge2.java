@@ -37,8 +37,6 @@ public class Challenge2 {
          int j = minIdx +1;        
         int m = 1;
         while(m < k) {
-
-                            
             if (i > 0 && j < a.length) {
                 if (Math.abs(key - a[i]) < Math.abs(key - a[j])) {
                     closest[m] = a[i];
@@ -62,7 +60,6 @@ public class Challenge2 {
         return closest;
     }
     public static int findClosestIndex(int a[], int key) {
-        
         int low = 0;
         int high = a.length-1;
         int minDiff = Integer.MAX_VALUE;
@@ -89,6 +86,4 @@ public class Challenge2 {
         }
         return minIdx;
     }
-       
-    
 }
