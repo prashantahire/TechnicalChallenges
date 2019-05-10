@@ -1,7 +1,4 @@
-
-
 package my.challenge.solution.array;
-
 
 public class Challenge3 {
 
