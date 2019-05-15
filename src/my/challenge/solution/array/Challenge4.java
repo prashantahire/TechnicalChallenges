@@ -3,7 +3,7 @@
 package my.challenge.solution.array;
 
 
-public class LeftRotationArray {
+public class Challenge4 {
 
     /**
      * Time : O(n) Space : O(d)
